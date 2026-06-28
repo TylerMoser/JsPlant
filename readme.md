@@ -1,14 +1,8 @@
-# Excalibur Tiled Vite Sample
+## Local Testing
 
-Play sample [here](https://excaliburjs.com/sample-tiled-vite)
+`npm start`
 
-![sample-animation](./sample.gif)
-
-## Running locally
-
-* Using [nodejs](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)
-* Run the `npm install` to install dependencies
-* Run the `npm run start` to run the development server to test out changes
+(o + enter) then opens browser to the game
 
 ## Building bundles
 
